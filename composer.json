@@ -1,0 +1,5 @@
+{
+  "require": {
+  "leanton/parenthesis_checker_lib": "~0.1"
+  }
+}
